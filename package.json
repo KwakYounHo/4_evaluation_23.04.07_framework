@@ -1,0 +1,14 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "make page with web socket / real time requset for server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webSocket"
+  ],
+  "author": "KwakYounHo",
+  "license": "ISC"
+}

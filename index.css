@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+
 #clock {
   width: 100vw;
   height: 100vh;
@@ -10,4 +12,5 @@
   border: 2px solid rgb(243, 196, 93);
   border-radius: 10px;
   padding: 7px;
+  font-family: 'Gugi', cursive;
 }

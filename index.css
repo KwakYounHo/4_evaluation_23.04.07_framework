@@ -5,3 +5,9 @@
   justify-content: center;
   align-items: center;
 }
+
+#clock > p {
+  border: 2px solid rgb(243, 196, 93);
+  border-radius: 10px;
+  padding: 7px;
+}
